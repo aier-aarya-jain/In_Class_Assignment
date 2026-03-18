@@ -1,4 +1,5 @@
-package feb_20_2026.task1;
+package task_One_to_One_association.task1;
+
 
 public class Project {
 
